@@ -1,0 +1,8 @@
+/* bugSolution.css */
+.box {
+  width: 50%; /* Using only percentages to avoid the issue */
+  /* Alternative, use only pixels or other units */
+  /* width: 300px; */
+  background-color: lightblue;
+  height: 100px;
+}
